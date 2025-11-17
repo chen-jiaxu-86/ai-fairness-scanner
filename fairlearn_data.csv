@@ -1,0 +1,17 @@
+age,income,credit_score,employment_years,debt_to_income,gender,region,loan_approved
+35,55000,720,3,0.35,Male,Urban,1
+28,42000,680,2,0.45,Female,Urban,0
+45,78000,810,8,0.25,Male,Urban,1
+32,38000,650,4,0.55,Female,Rural,0
+51,92000,750,15,0.20,Male,Urban,1
+26,35000,620,1,0.60,Female,Urban,0
+39,62000,710,6,0.30,Male,Rural,1
+29,45000,670,3,0.50,Female,Rural,0
+48,85000,790,12,0.22,Male,Urban,1
+33,47000,690,5,0.40,Female,Urban,0
+42,71000,730,9,0.28,Male,Urban,1
+27,32000,610,2,0.65,Female,Rural,0
+56,95000,820,20,0.18,Male,Urban,1
+31,41000,660,4,0.48,Female,Urban,0
+37,58000,700,7,0.32,Male,Rural,1
+25,30000,590,1,0.70,Female,Rural,0
