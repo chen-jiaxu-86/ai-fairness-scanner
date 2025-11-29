@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from fairlearn.metrics import(
     demographic_parity_difference ,
     equalized_odds_difference,
@@ -287,4 +286,5 @@ if __name__ == '__main__':
             print("公平性分析失败")
     else:
         print("数据处理失败")
+
 
