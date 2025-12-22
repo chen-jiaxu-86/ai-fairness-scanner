@@ -1,0 +1,15 @@
+{
+  "product_id": "age",
+  "product_name": "年龄公平性分析",
+  "sensitive_feature": "age",
+  "target": "loan_approved",
+  "model_file": "model_age_20251215_1737.pkl",
+  "features_file": "features_age_20251215_1737.json",
+  "performance": {
+    "accuracy": 0.8705,
+    "demographic_parity_diff": 0.11363636363636363,
+    "equalized_odds_diff": 1.0
+  },
+  "training_date": "20251215_1737",
+  "description": "专注于分析贷款审批中针对【age】的公平性"
+}

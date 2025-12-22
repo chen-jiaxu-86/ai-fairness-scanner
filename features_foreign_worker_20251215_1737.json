@@ -1,0 +1,17 @@
+[
+  "credit_amount",
+  "duration",
+  "credit_history_优秀",
+  "credit_history_很差",
+  "credit_history_良好",
+  "credit_history_较差",
+  "savings_<5千",
+  "savings_>=2万",
+  "savings_无",
+  "employment_3-5年",
+  "employment_<1年",
+  "employment_>=5年",
+  "employment_失业",
+  "property_无",
+  "property_汽车"
+]

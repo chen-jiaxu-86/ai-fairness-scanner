@@ -1,0 +1,15 @@
+{
+  "product_id": "gender",
+  "product_name": "性别公平性分析",
+  "sensitive_feature": "gender",
+  "target": "loan_approved",
+  "model_file": "model_gender_20251215_1737.pkl",
+  "features_file": "features_gender_20251215_1737.json",
+  "performance": {
+    "accuracy": 0.8705,
+    "demographic_parity_diff": 0.0007035615735361544,
+    "equalized_odds_diff": 0.12280215976740966
+  },
+  "training_date": "20251215_1737",
+  "description": "专注于分析贷款审批中针对【gender】的公平性"
+}
